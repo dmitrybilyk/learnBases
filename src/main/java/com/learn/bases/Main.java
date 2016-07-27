@@ -23,6 +23,7 @@ public class Main {
       }
       System.out.println();
     }
+//    This is a comment
 //    for (int i = 2; i <= 100; i++) {
 //      System.out.print("Dividers (Делители) " + i + ": ");
 //      for (int j = 2; j < i; j++) {
